@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-¡Hola! Bienvenide a mi blog. Mi nombre es Debora y soy programadora feminista. Cuando tenía 14 años, mis xadres compraron una computadora para mis hermanas y para mí. Un par de meses después descubrimos un sitio donde podíamos jugar diferentes juegos y que además daba la opción de personalizar tu perfil. ** Eso me voló la cabeza. ** Aprendí HTML para poder tener un hermoso perfil con un espectacular cursor estrellado. * Sí, eso era genial. * Pero en 2018, sí; 14 años después, entendí que en realidad podía de mi hobbie un trabajo. 
+¡Hola! Bienvenide a mi blog. Mi nombre es Debora y soy programadora feminista. Cuando tenía 14 años, mis xadres compraron una computadora para mis hermanas y para mí. Un par de meses después descubrimos un sitio donde podíamos jugar diferentes juegos y que además daba la opción de personalizar tu perfil. **Eso me voló la cabeza.** Aprendí HTML para poder tener un hermoso perfil con un espectacular cursor estrellado. *Sí, eso era genial.* Pero en 2018, sí; 14 años después, entendí que en realidad podía hacer de mi hobby un trabajo. 
 Completé algunos cursos en línea, me tomé el tiempo de leer y de practicar. Y siguiendo mi camino, descubrí el mundo del testing.
 
 Además de eso, amo leer y escribir. Me encanta entender cómo funcionan las cosas; soy una persona muy curiosa. Soy mamá de dos niñes (que a veces me vuelven loca). Disfruto mucho del tiempo en familia y con amigues. 
