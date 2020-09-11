@@ -1,11 +1,11 @@
 ---
 title: Como instalar Git en Windows 10
-date: 2020-09-11 16:25:00 -0300
+date: 2020-09-11 17:25:00 -0300
 categories: [Windows, git]
 tags: [git, github]
 toc: false
 seo: git, github, instalación de git en windows
-date_modified: 2020-09-11 16:25:28 -0300
+date_modified: 2020-09-11 17:25:28 -0300
 ---
 
 ![upload-image]({{ "/assets/img/sample/git.png" | relative_url }})
