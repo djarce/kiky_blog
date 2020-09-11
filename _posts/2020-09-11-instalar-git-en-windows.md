@@ -5,7 +5,7 @@ categories: [Windows, git]
 tags: [git, github]
 toc: false
 seo: git, github, instalación de git en windows
-  date_modified: 2020-09-11 16:25:28 -0300
+date_modified: 2020-09-11 16:25:28 -0300
 ---
 
 ![upload-image]({{ "/assets/img/sample/git.png" | relative_url }})
